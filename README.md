@@ -1,6 +1,6 @@
 ## 🐆 About Me
 
-## Hi there, I'm Mwau! 👋, a passionate software developer with expertise in a wide range of technologies. I specialize in using Django, JavaScript (including Next.js and React), HTML, CSS, Python, and Tailwind CSS to create robust and efficient web applications. My coding journey is fueled by a relentless curiosity and a desire to build innovative solutions that make a positive impact.
+Hi there, I'm Mwau! 👋, a passionate software developer with expertise in a wide range of technologies. I specialize in using Django, JavaScript (including Next.js and React), HTML, CSS, Python, and Tailwind CSS to create robust and efficient web applications. My coding journey is fueled by a relentless curiosity and a desire to build innovative solutions that make a positive impact.
 
 Beyond coding, I have another creative side—I'm also a writer. I enjoy expressing my thoughts and ideas through a series of thought-provoking blogs. Exploring various topics, from technology to personal experiences, allows me to share my perspectives and connect with readers.
 
