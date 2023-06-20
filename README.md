@@ -1,4 +1,4 @@
-## Hi there, I'm Mwau! 
+## Hi there, I'm Mwau! 👋
 
 <div>
     <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=peter-mwau&show_icons=true&theme=radical"/>
@@ -34,7 +34,7 @@
     <br>
 </div>
 
-## Blog posts
+## 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Authentic Dance of Friendship](https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/)
 - [Breaking Barriers: How Blockchain is Bridging Social Gaps and Transforming Lives](https://mindcurrents.blog/2023/05/31/technological-insights-breaking-barriers-how-blockchain-is-bridging-social-gaps-and-transforming-lives/)
