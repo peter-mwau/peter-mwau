@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-mwau&show_icons=true&locale=en&layout=compact" alt="peter-mwau" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-mwau&show_icons=true&locale=en" alt="peter-mwau" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-mwau&layout=compact" alt="peter-mwau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-mwau&" alt="peter-mwau" /></p>
