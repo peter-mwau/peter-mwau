@@ -43,7 +43,7 @@
 <p align="left">
 <a href="https://twitter.com/kyale_peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyale_peter" height="30" width="40" /></a>
 <a href="https://instagram.com/juniorortiz47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juniorortiz47" height="30" width="40" /></a>
-<a href="mindcurrents.blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mindcurrents.blog" height="30" width="40" /></a>
+<a href="https://mindcurrents.blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mindcurrents.blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
