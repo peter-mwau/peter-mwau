@@ -21,6 +21,16 @@
     <img align="left" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
 </div>
 
+<div>
+#  Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [The Authentic Dance of Friendship](https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/)
+- [Breaking Barriers: How Blockchain is Bridging Social Gaps and Transforming Lives](https://mindcurrents.blog/2023/05/31/technological-insights-breaking-barriers-how-blockchain-is-bridging-social-gaps-and-transforming-lives/)
+- [The Quest For Meaning](https://mindcurrents.blog/2023/05/11/the-quest-for-meaning/)
+- [Uniqueness Of The Human Person](https://mindcurrents.blog/2023/04/23/uniqueness-of-the-human-person/)
+- [Tears Of The Sun](https://mindcurrents.blog/2023/03/18/tears-of-the-sun/)
+<!-- BLOG-POST-LIST:END -->
+</div>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
