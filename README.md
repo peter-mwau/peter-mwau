@@ -24,7 +24,6 @@
 
 
 
-
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Authentic Dance of Friendship](https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/)
@@ -33,6 +32,7 @@
 - [Uniqueness Of The Human Person](https://mindcurrents.blog/2023/04/23/uniqueness-of-the-human-person/)
 - [Tears Of The Sun](https://mindcurrents.blog/2023/03/18/tears-of-the-sun/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
