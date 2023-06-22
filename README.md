@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I'm quite funny**
 
 ### Blog posts
+<!-- BLOG-POST-LIST:START -->
 <div>
   <a href="https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/">
     <img src="https://img.shields.io/badge/The Authentic Dance of Friendship-Read Blog-007BFF?style=for-the-badge">
@@ -37,6 +38,7 @@
     <img src="https://img.shields.io/badge/Tears Of The Sun-Read Blog-007BFF?style=for-the-badge">
   </a>
 </div>
+<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
