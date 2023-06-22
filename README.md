@@ -21,23 +21,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-<div>
-  <a href="https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/">
-    <img src="https://img.shields.io/badge/The Authentic Dance of Friendship-Read Blog-007BFF?style=for-the-badge">
-  </a>
-  <a href="https://mindcurrents.blog/2023/05/31/technological-insights-breaking-barriers-how-blockchain-is-bridging-social-gaps-and-transforming-lives/">
-    <img src="https://img.shields.io/badge/Breaking Barriers: How Blockchain is Bridging Social Gaps and Transforming Lives-Read Blog-007BFF?style=for-the-badge">
-  </a>
-  <a href="https://mindcurrents.blog/2023/05/11/the-quest-for-meaning/">
-    <img src="https://img.shields.io/badge/The Quest For Meaning-Read Blog-007BFF?style=for-the-badge">
-  </a>
-  <a href="https://mindcurrents.blog/2023/04/23/uniqueness-of-the-human-person/">
-    <img src="https://img.shields.io/badge/Uniqueness Of The Human Person-Read Blog-007BFF?style=for-the-badge">
-  </a>
-  <a href="https://mindcurrents.blog/2023/03/18/tears-of-the-sun/">
-    <img src="https://img.shields.io/badge/Tears Of The Sun-Read Blog-007BFF?style=for-the-badge">
-  </a>
-</div>
+- [The Authentic Dance of Friendship](https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/)
+- [Breaking Barriers: How Blockchain is Bridging Social Gaps and Transforming Lives](https://mindcurrents.blog/2023/05/31/technological-insights-breaking-barriers-how-blockchain-is-bridging-social-gaps-and-transforming-lives/)
+- [The Quest For Meaning](https://mindcurrents.blog/2023/05/11/the-quest-for-meaning/)
+- [Uniqueness Of The Human Person](https://mindcurrents.blog/2023/04/23/uniqueness-of-the-human-person/)
+- [Tears Of The Sun](https://mindcurrents.blog/2023/03/18/tears-of-the-sun/)
 <!-- BLOG-POST-LIST:END -->
 
 
