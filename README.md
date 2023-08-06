@@ -21,11 +21,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Embracing the Unknown: Unveiling the Revolution of Trust](https://mindcurrents.blog/2023/08/06/embracing-the-unknown-unveiling-the-revolution-of-trust/)
 - [Democracy’s Dilemma: Striking a Balance between Freedom and Responsibility](https://mindcurrents.blog/2023/07/23/democracys-dilemma-striking-a-balance-between-freedom-and-responsibility/)
 - [Challenging the Status Quo](https://mindcurrents.blog/2023/06/23/challenging-the-status-quo/)
 - [The Authentic Dance of Friendship](https://mindcurrents.blog/2023/06/13/the-authentic-dance-of-friendship/)
 - [Breaking Barriers: How Blockchain is Bridging Social Gaps and Transforming Lives](https://mindcurrents.blog/2023/05/31/technological-insights-breaking-barriers-how-blockchain-is-bridging-social-gaps-and-transforming-lives/)
-- [The Quest For Meaning](https://mindcurrents.blog/2023/05/11/the-quest-for-meaning/)
 <!-- BLOG-POST-LIST:END -->
 
 
