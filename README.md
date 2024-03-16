@@ -21,11 +21,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Just Develop &amp; Enjoy Existence!](https://mindcurrents.blog/2024/03/16/just-develop-enjoy-existence/)
 - [The Teacher in Stoicism](https://mindcurrents.blog/2023/12/22/the-teacher-in-stoicism/)
 - [The Advantage – Mystery of Life](https://mindcurrents.blog/2023/11/01/the-advantage-mystery-of-life/)
 - [The Art of Nurturing Friendships](https://mindcurrents.blog/2023/10/21/the-art-of-nurturing-friendships/)
 - [Embracing the Unknown: Unveiling the Revolution of Trust](https://mindcurrents.blog/2023/08/06/embracing-the-unknown-unveiling-the-revolution-of-trust/)
-- [Democracy’s Dilemma: Striking a Balance between Freedom and Responsibility](https://mindcurrents.blog/2023/07/23/democracys-dilemma-striking-a-balance-between-freedom-and-responsibility/)
 <!-- BLOG-POST-LIST:END -->
 
 
