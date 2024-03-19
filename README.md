@@ -21,11 +21,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alphabill: The Necessary Upgrade](https://mindcurrents.blog/2024/03/19/alphabill-the-necessary-upgrade-2/)
 - [Alphabill: The Necessary Upgrade](https://mindcurrents.blog/2024/03/17/alphabill-the-necessary-upgrade/)
 - [Just Develop &amp; Enjoy Existence!](https://mindcurrents.blog/2024/03/16/just-develop-enjoy-existence/)
 - [The Teacher in Stoicism](https://mindcurrents.blog/2023/12/22/the-teacher-in-stoicism/)
 - [The Advantage – Mystery of Life](https://mindcurrents.blog/2023/11/01/the-advantage-mystery-of-life/)
-- [The Art of Nurturing Friendships](https://mindcurrents.blog/2023/10/21/the-art-of-nurturing-friendships/)
 <!-- BLOG-POST-LIST:END -->
 
 
