@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pierremwa4059@gmail.com**
 
-- ⚡ Fun fact **I'm quite funny**
+- ⚡ Fun fact **I don't have dreams, only Goals!! And now it's unto the next one**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
