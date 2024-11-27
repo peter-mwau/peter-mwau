@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kyale Peter</h1>
-### <h3 align="center">A Passionate Blockchain Developer</h3>  
+<h3 align="center">A Passionate Blockchain Developer</h3>  
 <p align="center">  
 As a blockchain developer, I specialize in Solidity, Hardhat, web3.js, ethers.js, and smart contract development. My expertise lies in building secure, scalable decentralized applications and harnessing the power of blockchain technology to create innovative solutions.  
-
+</p>
+<p align="center"> 
 Having elevated from a strong foundation in Web2 technologies, I am also proficient in Django, Next.js, React, HTML, CSS, Python, and Tailwind CSS, which enhance my ability to bridge traditional and decentralized systems effectively.  
-
+</p>
+<p align="center">
 Beyond coding, I indulge in my passion for writing, crafting blogs that delve into the wonders of nature, philosophy, psychology, and technology. The beauty of nature inspires me, and blockchain's potential to transform industries fuels my creativity. Let's collaborate and revolutionize the future together!  
 </p>
 <p align="center">Fun fact: I once attempted to teach my pet cat how to code, but he was more interested in taking catnaps on the keyboard! Let's collaborate and embark on exciting endeavors together</p>
